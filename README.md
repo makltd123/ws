@@ -133,3 +133,7 @@ How freezing stays safe:
 - Windows run as administrator cannot be managed by a normal `ws`; such items are marked `uncontrollable` and a warning is shown.
 - UWP/Store apps are treated as generic apps and may be managed incompletely.
 - An isolated VS Code instance has its own settings copy (taken from your main profile on first start) and its own sign-ins.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Copyright (c) 2026 Fedor Makovskiy.
