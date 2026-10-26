@@ -137,3 +137,7 @@ How freezing stays safe:
 ## License
 
 MIT, see [LICENSE](LICENSE). Copyright (c) 2026 Fedor Makovskiy.
+
+---
+
+Author: [Fedor Makovskiy](https://fedor.alqira.ru), AI developer. Services and projects with quality metrics: [fedor.alqira.ru](https://fedor.alqira.ru).

@@ -137,3 +137,7 @@ triggers:
 ## Лицензия
 
 MIT, см. [LICENSE](LICENSE). Copyright (c) 2026 Fedor Makovskiy.
+
+---
+
+Автор: [Федор Маковский](https://fedor.alqira.ru), ИИ-разработчик. Услуги и проекты с цифрами качества: [fedor.alqira.ru](https://fedor.alqira.ru).
