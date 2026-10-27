@@ -2,7 +2,7 @@
 
 [Русская версия](README.ru.md)
 
-`ws` describes a project as a *workspace*: which apps to open, with which folders, at which window positions. It launches a workspace from a YAML manifest, binds the new windows to it, arranges them, snapshots the current layout (`ws save`), and switches between workspaces by hiding and freezing (suspending) the processes of the one you leave. The tray, hotkeys and "where I stopped" notes (stages 4-5 in [SPEC.md](SPEC.md)) are not implemented yet.
+`ws` describes a project as a *workspace*: which apps to open, with which folders, at which window positions. It launches a workspace from a YAML manifest, binds the new windows to it, arranges them, snapshots the current layout (`ws save`), and switches between workspaces by hiding and freezing (suspending) the processes of the one you leave. The tray, hotkeys and "where I stopped" notes are not implemented yet.
 
 It is **not** a replacement for Windows virtual desktops, and it never uses their internal API.
 
